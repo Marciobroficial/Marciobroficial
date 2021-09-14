@@ -1,6 +1,7 @@
 ### Sejá bem vindo ao meu GitHub.
 Todos me conhecem com Marcio Santos, <br>
-Atualmente sou estudante de ADS. Na Fatec.
+Atualmente sou estudante de ADS. Na Fatec. <br>
+### Meu GitHub se encontra em reformulação para se adeguar melhor ao meu perfil: <br> Profissional e Pessoal.
 ##
  <div>
   <a href="https://github.com/marciobroficial">
