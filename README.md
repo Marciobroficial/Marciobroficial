@@ -1,4 +1,4 @@
-## Sejá bem vindo ao meu GitHub.
+## Sejá bem vindo ao meu GitHub. (Welcome to my GitHub.)
 ## Olá!!!  Todos me conhecem com Marcio Santos, e atualmente me encontro no curso de ADS. Na Fatec. <br>
 ### Meu GitHub se encontra em reformulação para se adequar melhor ao meu perfil: <br> Profissional e Pessoal.
 ##
